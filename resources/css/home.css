@@ -333,7 +333,7 @@ header {
 }
 
 .lukas{
-	content: url("Lukas Website/Lukas.png");
+	content: url("../img/Lukas.png");
 	width:100px;
 	height:100px;
 
@@ -418,7 +418,7 @@ header {
 }
 
 .twitter{
-	content: url("Lukas Website/home/twitter.png");
+	content: url("../img/twitter.png");
 	float:right;
 	height: 50px;
 	width: 50px;
@@ -427,7 +427,7 @@ header {
 }
 
 .facebook{
-	content: url("Lukas Website/home/facebook.png");
+	content: url("../img/facebook.png");
 	float:right;
 	height: 50px;
 	width: 50px;
@@ -511,7 +511,7 @@ font-family:open sans;
 .bg{
   height: 500px;
   width: 100%;
-  background: url('bg.jpg');
+  background: url('../img/bg.jpg');
   background-size: cover;
   background-position: center;
   position: relative;
