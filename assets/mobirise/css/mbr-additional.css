@@ -1671,11 +1671,12 @@ body {
   color: #ffffff !important;
 }
 .cid-qG9upRQuYY {
-  background-image: url("../../../assets/images/mbr-2-1620x1080.jpg");
+  background-image: url("../../../assets/images/luke-chesser-49-2000x1333.jpg");
 }
 .cid-qG9upRQuYY .mbr-text,
 .cid-qG9upRQuYY .mbr-section-btn {
   color: #ffffff;
+  text-align: center;
 }
 .cid-qGx1Bs1EyL {
   padding-top: 90px;
@@ -1683,7 +1684,7 @@ body {
   background-color: #f9f9f9;
 }
 .cid-qGx1Bs1EyL .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-qGx1Bs1EyL .media-row {
   display: flex;
@@ -1712,10 +1713,10 @@ body {
   font-size: 17px;
 }
 .cid-qGx1Bs1EyL .team-item .item-caption {
-  background: #efefef;
+  background: #cccccc;
 }
 .cid-qG9wo9tsnQ {
-  background-image: url("../../../assets/images/03.jpg");
+  background-image: url("../../../assets/images/mbr-1618x1080.jpg");
 }
 .cid-qG9wo9tsnQ .icons-media-container {
   display: flex;
